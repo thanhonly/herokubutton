@@ -6,6 +6,6 @@
   },
   "addons": [
     "heroku-postgresql",
-    "sendgred"
+    "sendgrid"
   ]
 }
