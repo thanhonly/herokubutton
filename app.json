@@ -5,6 +5,7 @@
     "MT_ZIP_URL": "https://s3-ap-northeast-1.amazonaws.com/heroku-buildpack-mt/MTOS-5.2.11.zip"
   },
   "addons": [
-    "heroku-postgresql"
+    "heroku-postgresql",
+    "sendgred"
   ]
 }
