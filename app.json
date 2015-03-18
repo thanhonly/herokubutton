@@ -1,7 +1,7 @@
 {
   "name": "Movable Type",
   "env": {
-    "BUILDPACK_URL": "https://github.com/masiuchi/heroku-buildpack-mt",
+    "BUILDPACK_URL": "https://github.com/masiuchi/heroku-buildpack-php.git#mt",
     "MT_ZIP_URL": "https://s3-ap-northeast-1.amazonaws.com/heroku-buildpack-mt/MTOS-5.2.12.zip"
   },
   "addons": [
